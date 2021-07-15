@@ -1,4 +1,4 @@
-var favOS = prompt("what is your favorite OS for mobiles?")
+/*var favOS = prompt("what is your favorite OS for mobiles?")
 
 
 if(favOS == "Android"){
@@ -14,4 +14,4 @@ document.write(alert("Ok, welcome") +
 
 else{
   alert('Sorry, this OS isnt exist here')
-}
+}*/

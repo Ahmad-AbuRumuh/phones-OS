@@ -2,4 +2,4 @@
 
 ## Wireframe:
 
-![Wireframe](Wireframe.png)
+![Wireframe](WireframeNew.png)
