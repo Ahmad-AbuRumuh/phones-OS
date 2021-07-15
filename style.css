@@ -18,11 +18,11 @@ h3{
 
 #firstP{
   background-color: lightblue;
-  margin: 0px;
   padding-left: 30px;
+  height: 100px;
 }
 p{
-  margin: 0px;
+  margin: 0px; 
 }
 
 #img1{
@@ -32,6 +32,6 @@ p{
 footer{
   background-color: rgb(203, 248, 78);
   color: white;
-  padding-top: 5px;
-  height: 50px;
+  padding-top: 50px;
+  height: 130px;
 }
